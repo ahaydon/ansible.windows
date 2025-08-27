@@ -1,0 +1,18 @@
+namespace: ahaydon
+name: windows
+version: 0.1.0
+readme: README.md
+authors:
+  - Adam Haydon (https://github.com/ahaydon)
+description: A collection of Ansible plugins for Windows and WSL2
+license:
+  - MIT
+tags:
+  - windows
+  - wsl
+repository: https://github.com/ahaydon/ansible.windows.git
+documentation: https://github.com/ahaydon/ansible.windows
+homepage: https://github.com/ahaydon/ansible.windows
+issues: https://github.com/ahaydon/ansible.windows/issues
+build_ignore:
+  - .gitignore
